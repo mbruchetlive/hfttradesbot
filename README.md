@@ -36,10 +36,6 @@ LaylaHFT/
 ├── tests/ # Tests unitaires
 └── README.md
 
-yaml
-Copier
-Modifier
-
 ## 🚀 À venir
 
 - Intégration initiale LLM (.NET 9 + LlamaSharp)
